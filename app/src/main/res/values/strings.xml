@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daily Selfie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_deleteAll">Delete All</string>
+
+    <string name="dialog_deleteAll_title">Are you sure?</string>
+    <string name="dialog_deleteAll_text">Are you sure you want to delete all the selfies?</string>
+    <string name="dialog_deleteAll_yes">Yes</string>
+    <string name="dialog_deleteAll_no">No</string>
+</resources>
