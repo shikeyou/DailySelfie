@@ -9,9 +9,10 @@ This is the project for Programming Mobile Applications for Android Handheld Sys
 Main objectives of this project:
 
 * Create an Android app from scratch that reminds users via notifications to take a selfie photo every day
-* Display all the selfies in a list view
+* Capturing of photo using camera
+* Display all the selfies in a ListView
 * Persist the selfies in local storage, even after app has terminated
-* Work with status bar notifications, 
+* Usage of Alarms, BroadcastReceivers and Services for status bar notifications
 
 ## Requirements
 
